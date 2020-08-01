@@ -9,7 +9,7 @@ def batch_badge_creator(attendees)
 end
 
 def assign_rooms(speakers)
-  []
+  new arr = []
   speakers.each_with_index {|name, i|}
   
 end
