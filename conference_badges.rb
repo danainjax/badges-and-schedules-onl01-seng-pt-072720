@@ -10,7 +10,7 @@ end
 
 def assign_rooms(speakers)
   []
-  
+  speakers.each_with_index
   
 end
 
